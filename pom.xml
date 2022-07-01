@@ -22,7 +22,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<hadoop.version>2.6.0</hadoop.version>
+		<hadoop.version>2.7.0</hadoop.version>
 		<!-- To avoid losing data when bulk importing, a version of Accumulo in which ACCUMULO-3967 has been
 		fixed should be used (e.g. 1.5.4, 1.6.4, 1.7.1, 1.8.0). -->
 		<accumulo.version>1.6.4</accumulo.version>
